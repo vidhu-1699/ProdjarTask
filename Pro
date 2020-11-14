@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Prodjar</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="rr.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+  <link rel="stylesheet" media="mediatype and|not|only (expressions)" href="print.css">
+</head>
+<body>
+
+  <div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-1"  > 
+	
+	</div>
+    <div class="col-sm-5"  >
+	<button id="menubar"><i class="fa fa-bars"></i></button>
+	<img class="img-responsive" src ="images/prodjar.png" />
+	
+    </div>
+	<div class="col-sm-5"  >
+	<div id="div1right1">
+<ul id="topbar">
+<li ><a href="#">About</a></li>
+<li><a href="#">Our Works</a></li>
+<li><a href="#">Benefits</a></li>
+<li><a href="#">Contact us</a></li>
+</ul>
+</div>
+    </div>
+	<div class="col-sm-1" >
+	
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-sm-1" > 
+	<div id ="div1side1">
+<p>INFO:<span>|!]</span>HELLO@PRODJAR.COM</p>
+</div>
+    </div>
+    <div class="col-sm-5" > 
+	<div id ="div2left1">
+<header>
+<h3> Prodjar is <span>UI/UX Design</span></h3>
+It's a beautiful thing.</br>
+Mind-Blowing.</br>
+</br>
+ <h6>SCROLL DOWN</h6></br>
+
+</header>
+    </div>
+	</div>
+    <div class="col-sm-5"  >
+	<div id="div2right1">
+<img class="img-responsive" src="images/mawo.png" />
+</div>
+    </div>
+	<div class="col-sm-1"  >
+	<div id ="div1side2">
+
+<p> FACEBOOK<span>|!]</span>TWITTER|<span>|!]</span>INSTAGRAM|<span>|!]</span>LINKEDIN<p>
+</div>
+    </div>
+	
+  </div>
+
+ <div class= "row">
+  
+  <p id="bar">
+</p>
+</div> 
+  
+  <div class="row" >
+  
+  <div class="col-sm-1" >
+  </div>
+  <div class="col-sm-5" >
+  
+  <div id ="div3left1" >
+  <p id="para" style="margin-left:100px">
+  </br></br>
+Well,we are team of developers who strongly believe that code is poetry and loves to solve the business problems with simple,down-to-earth solutions.We think that speaking in alien language is not going to help any business to solve its problems,which exactly most traditional technology companies do and scare people away.</br>
+</br>
+And ,by the way ,we are open source freaks.Almost all of our work is GPL licensed and a majority of our frameworks are available in our Github page 
+</p>
+ 
+</br>
+
+</div>
+  </div>
+
+  <div class="col-sm-5">
+  <div id="div3right1">
+<h1>who </h1>
+  <h2> we are </h2>
+</div>
+  </div>
+  <div class="col-sm-1">
+  </div>
+  </div>
+ 
+  </div>
+  <div class= "row">
+  
+  <p id="bar">
+</p>
+</div>
+
+  <div class= "row">
+  <div class="col-sm-1" >
+  </div>
+  <div class="col-sm-5" >
+  </br></br></br>
+   <div id ="div4left1">
+<div id="rect">
+<h3> OUR WORKS </h3>
+<img src="hand.jpg" align="left">
+<div id="circle">
+</div>
+</br></br></br></br></br>
+<h2>Design</h2>
+    <h2>strategy</h2>
+	<h2>Made Visible</h2>
+</div>
+  </div>
+  </div>
+  <div class="col-sm-5" >
+ <div id="div4right1">
+ </br>
+ </br>
+<ul>
+<li><button ><a  href="#"> Create your brand</li></button>
+<li><button><a href="#"> Build your product</li></button>
+<li><button><a href="#"> Build your products</li></button>
+<li><button><a href="#"> Build your products</li></button>
+<li><button><a  href="#">We can help</li><button>
+</ul>
+</div>
+  </div>
+  <div class="col-sm-1" >
+  </div>
+</div>
+<div class="row">
+<div class="col-sm-1">
+</div>
+<div class="col-sm-5" >
+<div id ="div5left1">
+</br>
+</br>
+<form>
+ <b>Ready to get started ?</b></br></br>
+<textarea id="name" rows="1" cols="40" > Name </textarea></br></br>
+<textarea id="mail" rows="1" cols="40" > Email</textarea></br></br>
+<textarea id="mytextarea" rows="6" cols="40" > What problem are you trying to solve?</textarea></br></br>
+<button id="sub" type="submit"  >SEND NOW</button>
+</form>
+</div>
+</div>
+<div class="col-sm-5" style="background-color:#57ebbc ">
+<div id="div5right1">
+<h3> Benefit Product</h3>
+<ul>
+<li>Lorem ipsum dolor sit amet,consectetur adipiscing elit,Morbit auctor luctus liberto sit amet porttitor.</li></br>
+<li>Lorem ipsum dolor sit amet,consectetur adipiscing elit,Morbit auctor luctus liberto sit amet porttitor.</li></br>
+<li>Lorem ipsum dolor sit amet,consectetur adipiscing elit,Morbit auctor luctus liberto sit amet porttitor.</li></br>
+<li>Lorem ipsum dolor sit amet,consectetur adipiscing elit,Morbit auctor luctus liberto sit amet porttitor.</li>
+</ul>
+</div>
+</div>
+<div class="col-sm-1" >
+</div>
+</div>
+<div class="row">
+
+<hr style="height:2px">
+<div class="col-sm-4">
+</div>
+<div class="col-sm-6">
+<div id="ai">
+<img class="img-responsive" src="images/prodjar.png" />
+</div>
+</div>
+<div class="col-sm-4">
+</div>
+
+
+</div>
+<div class="row">
+<div class="col-sm-3" >
+</div>
+<div class="col-sm-6" >
+<div id="text">
+<p>Say goodbye to Generic,boring newsletters.Use the data to create personalized,effective ecommerce marketing campaigns and drive your sales.</p>
+
+     <h4 id="fo"><b>Get in Touch with Use</h4></b>
+	 <i class="fas fa-envelope"></i>
+	 <a href="#">hello@prodjar.com</a>
+	 <hr>
+	 </div>
+	 </div>
+	 <div class="col-sm-4" >
+</div>
+</div>
+
+	
+	 
+	 <div class="row">
+	
+    <div class="col-sm-3  col-sm-push-4">
+    
+	 <ul class="social_icon">    
+     <li>
+        <a href="https://www.facebook.com/xxxxxxx" class="facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+     </li>
+     <li>
+        <a href="https://twitter.com/xxxxxx" class="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+     </li>
+     <li>
+        <a href="https://in.linkedin.com/xxxxxxxx" class="linkedin">
+          <i class="fab fa-linkedin-in"> </i>
+        </a>
+     </li> 
+     
+</ul>
+	
+
+</div>
+<div class="col-sm-4 col-sm-pull-3">
+	 <div class = "media"> 
+	Copyrights @ 2019 prodjar - #BuiltinChennai
+	 </div>
+	 </div>
+	 <div class="col-sm-5 ">
+	 <div class= "medi">
+	Privacy Policy | Terms of Service 
+	</div>
+	</div>
+	
+</div>
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	
+	 </div>
+	 
+</div>
+
+
+
+    
+</body>
+</html>
